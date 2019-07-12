@@ -10,7 +10,7 @@
 * [F.lux](https://justgetflux.com/)
 
 ### Development
-* [Python](https://www.python.org/)
+* [Python](https://www.python.org/): 간단한 Python 실습인 경우 [Colab](https://colab.research.google.com/) 이용
 * [JDK 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [JDK 11](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
 * [Node.js](https://nodejs.org/ko/)
