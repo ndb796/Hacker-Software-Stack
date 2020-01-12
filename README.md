@@ -2,6 +2,9 @@
 내가 사용하는 프로그램들 정리하기. 새로운 컴퓨터 환경을 구축할 때 빠르게 설치하자!
 (Software list that I use frequently.)
 
+### Web Browser
+* [Chrome](https://www.google.com/intl/en/chrome/)
+
 ### Documentation
 * Microsoft Office
 * 한글과컴퓨터
@@ -35,6 +38,7 @@
 
 ### Server Management
 * [알드라이브](https://www.altools.co.kr/download/aldrive.aspx)
+* XShell
 
 ### Source Code Management
 * [Git](https://git-scm.com/downloads)
@@ -45,3 +49,6 @@
 ### Messenger
 * [카카오톡](https://www.kakaocorp.com/service/KakaoTalk/)
 * [Slack](https://slack.com/)
+
+### Service
+* [Goorm IDE](https://ide.goorm.io/): 간단한 C/C++/Python 실습 용도로 적합
