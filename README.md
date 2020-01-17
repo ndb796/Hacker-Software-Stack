@@ -4,6 +4,7 @@
 
 ### Web Browser
 * [Chrome](https://www.google.com/intl/en/chrome/)
+* [Whale](https://whale.naver.com/)
 
 ### Documentation
 * Microsoft Office
