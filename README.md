@@ -47,6 +47,7 @@
 ### Utility
 * [반디집](https://kr.bandisoft.com/bandizip/)
 * [Grammarly](https://www.grammarly.com/)
+* [곰플레이어](https://www.gomlab.com/download/)
 
 ### Messenger
 * [카카오톡](https://www.kakaocorp.com/service/KakaoTalk/)
