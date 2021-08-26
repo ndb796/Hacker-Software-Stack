@@ -48,6 +48,7 @@
 * [반디집](https://kr.bandisoft.com/bandizip/)
 * [Grammarly](https://www.grammarly.com/)
 * [곰플레이어](https://www.gomlab.com/download/)
+* Adobe Premiere Pro
 
 ### Messenger
 * [카카오톡](https://www.kakaocorp.com/service/KakaoTalk/)
@@ -57,4 +58,4 @@
 * [Goorm IDE](https://ide.goorm.io/): 간단한 C/C++/Python 실습 용도로 적합
 
 ### Font
-* [NanumGothic, NanumGothicCoding, KoPub돋움체](./fonts)
+* [NanumGothic, NanumGothicCoding, KoPub돋움체, 나눔스퀘어](./fonts)
