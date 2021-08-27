@@ -6,9 +6,10 @@
 * [Chrome](https://www.google.com/intl/en/chrome/)
 * [Whale](https://whale.naver.com/)
 
-### Documentation
-* Microsoft Office
-* 한글과컴퓨터
+### Documentation & Media
+* Microsoft Office: Word, Powerpoint
+* Adobe (Creative Cloud): Acrobat DC, Adobe Premiere Pro, Adobe Photoshop
+* 한글과컴퓨터(한컴오피스): 한글, 한컴 사전, 한컴 타자연습
 
 ### Health
 * [F.lux](https://justgetflux.com/)
@@ -48,10 +49,10 @@
 * [반디집](https://kr.bandisoft.com/bandizip/)
 * [Grammarly](https://www.grammarly.com/)
 * [곰플레이어](https://www.gomlab.com/download/)
-* Adobe Premiere Pro
+* [Everything](https://software.naver.com/software/summary.nhn?softwareId=MFS_120816)
 
 ### Messenger
-* [카카오톡](https://www.kakaocorp.com/service/KakaoTalk/)
+* [카카오톡](https://www.kakaocorp.com/page/service/service/KakaoTalk)
 * [Slack](https://slack.com/)
 
 ### Service
@@ -59,3 +60,11 @@
 
 ### Font
 * [NanumGothic, NanumGothicCoding, KoPub돋움체, 나눔스퀘어](./fonts)
+
+### 인증서 및 자산 관리
+* [농협 인터넷뱅킹](https://banking.nonghyup.com/nhbank.html)
+* [키움증권](https://www3.kiwoom.com/h/main)
+* [네이버](https://www.naver.com)
+
+### 맞춤법 검사
+* [한국어 맞춤법/문법 검사기](https://speller.cs.pusan.ac.kr/)
