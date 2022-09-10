@@ -57,6 +57,8 @@
 ### Messenger
 * [카카오톡](https://www.kakaocorp.com/page/service/service/KakaoTalk)
 * [Slack](https://slack.com/)
+* [Teams](https://www.microsoft.com/ko-kr/microsoft-teams/download-app)
+* [Webex](https://www.webex.com/ko/downloads.html)
 
 ### Service
 * [Goorm IDE](https://ide.goorm.io/): 간단한 C/C++/Python 실습 용도로 적합
