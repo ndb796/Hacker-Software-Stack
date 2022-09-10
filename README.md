@@ -72,3 +72,6 @@
 
 ### 맞춤법 검사
 * [한국어 맞춤법/문법 검사기](https://speller.cs.pusan.ac.kr/)
+
+### POSTECH 관련 사이트
+* [POSTECH 이메일 서비스](https://mail.postech.ac.kr/)
