@@ -77,3 +77,6 @@
 
 ### POSTECH 관련 사이트
 * [POSTECH 이메일 서비스](https://mail.postech.ac.kr/)
+
+### 화면 녹화/캡처
+* [OBS Studio](https://obsproject.com/ko/download)
